@@ -45,7 +45,7 @@
             Memo_Webapp
         </td>
         <td>
-            ----------
+            Specifying the topic, details, date and time of recording
         </td>
         <td>
             <a href="https://github.com/SpiritJom/Memo_Webapp">Github</a>
